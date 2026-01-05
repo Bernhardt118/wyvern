@@ -1,16 +1,11 @@
-# Group 10 - CS354 Networking
-## Project 1: Client-server chat app
+# Course - CS354 Networking
+## Project Title: Client-server chat app
 
 ### Group Members
-Matthew Oosthuyse - 21784507 \
 Bernhardt Steyn - 21740178
 
-## Hamachi Details
-Network ID: `G10-matt`\
-Password: `group10`\
-IPv4: `25.35.6.239`
 ## How to run the Program
-First we need to compile all the java classes. \
+First, we need to compile all the Java classes. \
 `make`
 
 Once all the classes have been compiled, we need to start the server.
