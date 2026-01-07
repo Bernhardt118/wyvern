@@ -1,8 +1,4 @@
-# Course - CS354 Networking
 ## Project Title: Client-server chat app
-
-### Group Members
-Bernhardt Steyn - 21740178
 
 ## How to run the Program
 First, we need to compile all the Java classes. \
